@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ShottyMan
 - 👀 I’m interested in coding and video games
 - 🌱 I’m currently learning C++, Python and German. I wish to learn coding languages such as java and c# as well.
-- 💞️ I’m looking to collaborate on my little Calculotron-9000 little practice project if anyone wants to help me work on it so I can learn how to cooperate.
 - 📫 How to reach me Jyssauco1@gmail.com
 
 <!---
